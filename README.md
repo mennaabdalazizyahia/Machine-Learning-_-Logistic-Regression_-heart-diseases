@@ -36,9 +36,7 @@ The dataset includes lifestyle and medical attributes such as sex, sleep hours, 
    - Split dataset into training (70%) and testing (30%) using `train_test_split`.  
    - Trained a **Logistic Regression** classifier.  
 5. **Model Evaluation**:
-   - **Accuracy Score:** ~0.XX (from output)  
-   - Classification Report:
-     - Precision, Recall, F1-Score for both classes (0 = No Heart Attack, 1 = Heart Attack).  
+   - **Accuracy Score:** 95 %  
 
 ---
 
