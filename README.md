@@ -52,5 +52,5 @@ The dataset includes lifestyle and medical attributes such as sex, sleep hours, 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-logistic-regression.git
+   git clone https://github.com/mennaabdalazizyahia/heart-disease-logistic-regression.git
    cd heart-disease-logistic-regression
